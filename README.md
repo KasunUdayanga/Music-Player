@@ -63,7 +63,6 @@ Once the app is running, you can explore the various features of the Spotify clo
 - **Vite**: A modern frontend build tool that provides a faster and leaner development experience.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **JavaScript (ES6+)**: The programming language used for logic and component creation.
-
 ## Contributing
 This is concribution project with [Rishini Nawodi](https://github.com/rishininawodi) check her profile give feedback
 
